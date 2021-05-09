@@ -1,0 +1,13 @@
+body {
+    background-color: peachpuff;
+    text-align: center;
+  }
+  
+  img{
+    height : 550px;
+    width : 1335px;
+  }
+
+  #curtain {
+  box-shadow: 1px 1px 40px;
+  }
